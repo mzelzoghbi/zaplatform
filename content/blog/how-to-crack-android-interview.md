@@ -10,12 +10,13 @@ draft: false
 
 Interviews are stressful by design in preparing for it, in waiting to be interviewed, and within the interview itself and it gets more and more when you get asked about new things that you never knew or heard about before the interview. I remember my first interview, I attended without preparing anything, I was almost 1 year of experience and thought that I knew everything. I was rejected and believe me, it was a turning point in my life.
 
-Hi, I’m Zak, Android Lead @ [Instabug](https://instabug.com) with almost 10+ years in the field, started with no CS background and I’ll be sharing my learnings over the past years.
+Hi 👋🏻, I’m Zak, Engineering Manager @ [Instabug](https://instabug.com) with almost 10+ years in the field, started with no CS background and I’ll be sharing my learnings over the past years.
 
-## Before the interview 💡
+### Before the interview 💡
 You should always prepare for interviews and if you don’t have time to prepare, postpone it. You should always be focused and prepared if you want to get accepted.
 
-### Reading vs Learning
+Reading vs Learning
+
 For Android, I always start by searching online for interview questions, books, glass-door answers…etc there are tons of questions and answers that you should learn, know & understand. Reading some questions and answers will not make a good engineer from you.
 
 For me, when I was invited to interview @ 
@@ -40,7 +41,7 @@ You should also know who will interview you and you may reach out to them and as
 ### Stay Updated
 You should always be aware of the new things in the Tech world, Latest android version features, Google I/O, events, libraries, tools, talks, etc. All these things will make your mind so open to new things.
 
-## The Interview 🤵
+### The Interview 🤵
 The day before the interview sleep well and wake up after good sleeping hours, dress according to the invitation request(formal/casual) and be focused, calm and smile 😊
 
 * Don’t panic, keep calm, you should be smart and understand that it is a cool challenge and you will learn a lot from it.
@@ -50,11 +51,12 @@ The day before the interview sleep well and wake up after good sleeping hours, d
 * If you do not know the answer to a question say I don’t know, it is a good idea to tell the interviewer that you can think about an answer that might be right or wrong.
 * If there is a problem you don’t know its answer Please Think hard about a solution as this is the main purpose of the problem to let the interviewer know how your mind works. *Don’t Give up.*
 * Write down / remember the questions that you can’t answer (Personally I use a note-taking app or a small notebook)
+
 > Any Interview is a win-win situation, You should always learn about your weakest skills and develop them.
 
 At the end of the interview thank the interviewer(s) for their time and ask any further information that you need to know about the company, like their process, technology, or anything that you need to know. You can also ask for feedback and you can also give feedback if you were asked.
 
-After Interview 🏠
+### After Interview 🏠
 Start preparing for the next interview, don’t wait for the reply.
 If you do not receive a reply after the expected timeframe, follow up if the position is still available.
 If there is not a positive reply in your email, reply saying it was a pleasure and you wish to work with the company. Looking forward to new opportunities.

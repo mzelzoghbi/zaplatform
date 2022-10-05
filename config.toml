@@ -6,7 +6,7 @@ theme = "geeky-hugo"
 ######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
-color_primary = "#2ba283"
+color_primary = "#37718E"
 body_color = "#FFF"
 text_color = "#555"
 text_dark = "#222"
@@ -18,13 +18,13 @@ light = "#f2f2f2"
 
 # font variables
 # base font size for full website, 
-font_size = "15px" # default is 16px
+font_size = "18px" # default is 16px
 
 # Font Scale Sizes
 # "minorSecond": 1.067,
 # "majorSecond": 1.125,
-# "minorThird": 1.2,
-# "majorThird": 1.25,
+# "minorThird": 1.25,
+# "majorThird": 1.3,
 # "perfectFourth": 1.333,
 # "augmentedFourth": 1.414,
 # "perfectFifth": 1.5,
