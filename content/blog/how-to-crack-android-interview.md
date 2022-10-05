@@ -12,10 +12,10 @@ Interviews are stressful by design in preparing for it, in waiting to be intervi
 
 Hi 👋🏻, I’m Zak, Engineering Manager @ [Instabug](https://instabug.com) with almost 10+ years in the field, started with no CS background and I’ll be sharing my learnings over the past years.
 
-### Before the interview 💡
+##### Before the interview 💡
 You should always prepare for interviews and if you don’t have time to prepare, postpone it. You should always be focused and prepared if you want to get accepted.
 
-Reading vs Learning
+###### Reading vs Learning
 
 For Android, I always start by searching online for interview questions, books, glass-door answers…etc there are tons of questions and answers that you should learn, know & understand. Reading some questions and answers will not make a good engineer from you.
 
@@ -25,23 +25,23 @@ Instabug
 
 After all of these, I noticed that there is something important that I didn’t know about and it was testing so I started to cover the task with both unit-testing and UI Testing, and believe me it was harder than writing the task itself however I learned a lot from it.
 
-> Learn, Learn & Learn. Don’t copy/paste, Good engineers always learn, so if there is a new keyword or answer that you don’t understand, you should understand and learn it.
+> Keep learning and understanding. Don’t copy/paste, Good engineers always learn, so if there is a new keyword or answer that you don’t understand, you should understand and learn it.
 
-### Problem Solving
+###### Problem Solving
 Most of the interviews contain problem-solving, some of them may be android related challenges, like designing a chatting app, shopping cart, how Uber app work, etc and other may ask about real problem solving or pair programming. So my advice here will be to solve some online problems from Codility, Hackerrank, etc, and reading Cracking coding interview book.
 
-### Code Reviews
+###### Code Reviews
 Some companies may give you some snippets to review, they will be testing your code review skills, so you need to be focused and your eyes should catch errors like naming conventions, threading issues, leaks, code structure…etc
 
-### Know your Employer & Interviewers
+###### Know your Employer & Interviewers
 You should study the company that you are applying for, their technology stack, app, SDK, check the features they have, and think how it is implemented as you may be asked about a solution to a challenge they faced.
 
 You should also know who will interview you and you may reach out to them and ask about the interview. Familiarity will help a lot in keeping you less stressed. Check what is he/she interested in you may find something common.
 
-### Stay Updated
+###### Stay Updated
 You should always be aware of the new things in the Tech world, Latest android version features, Google I/O, events, libraries, tools, talks, etc. All these things will make your mind so open to new things.
 
-### The Interview 🤵
+##### The Interview 🤵
 The day before the interview sleep well and wake up after good sleeping hours, dress according to the invitation request(formal/casual) and be focused, calm and smile 😊
 
 * Don’t panic, keep calm, you should be smart and understand that it is a cool challenge and you will learn a lot from it.
@@ -56,7 +56,7 @@ The day before the interview sleep well and wake up after good sleeping hours, d
 
 At the end of the interview thank the interviewer(s) for their time and ask any further information that you need to know about the company, like their process, technology, or anything that you need to know. You can also ask for feedback and you can also give feedback if you were asked.
 
-### After Interview 🏠
+##### After Interview 🏠
 Start preparing for the next interview, don’t wait for the reply.
 If you do not receive a reply after the expected timeframe, follow up if the position is still available.
 If there is not a positive reply in your email, reply saying it was a pleasure and you wish to work with the company. Looking forward to new opportunities.
@@ -64,9 +64,9 @@ Interviews are like challenges you might win or lose, but in both cases you will
 
 Do you think this is enough?! How do you get prepared for interviews? share with me your thoughts.
 
-Thank you for reading. If you like my article, please don’t forget to 👏 and recommend it to others.
+Thank you for reading. If you like my article, please don’t forget to recommend it to others.
 
-Also, to be notified about my new articles and stories, follow me on Medium and Twitter. You can find me on LinkedIn as well. Cheers!
+Also, to be notified about my new articles and stories, follow me on Twitter & you can find me on LinkedIn as well. Cheers!
 
 
 
