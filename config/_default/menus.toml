@@ -45,12 +45,12 @@ name = "About"
 url = "about/"
 weight = 2
 
-[[footer]]
-name = "Contact"
-url = "contact/"
-weight = 3
+# [[footer]]
+# name = "Contact"
+# url = "contact/"
+# weight = 3
 
 [[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 4
+# name = "Privacy Policy"
+# url = "privacy-policy/"
+# weight = 4
