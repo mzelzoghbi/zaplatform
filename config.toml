@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mzelzoghbi.github.io/zaplatform'
 languageCode = 'en-us'
 title = 'ZaPlatform'
 theme = "geeky-hugo"
