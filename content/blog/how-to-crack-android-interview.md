@@ -4,6 +4,7 @@ description: "Android interview in a nutshell"
 image: "https://images.unsplash.com/photo-1508643315917-6688bbbb4cb5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
 date: 2022-10-03T18:19:25+06:00
 categories: ["programming"]
+tags: ["interview", "android"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
