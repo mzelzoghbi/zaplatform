@@ -1,4 +1,4 @@
-baseURL = 'https://blog.zaplatform.com'
+baseURL = 'https://mzelzoghbi.github.io/zaplatform/'
 languageCode = 'en-us'
 title = 'ZaPlatform'
 theme = "geeky-hugo"
