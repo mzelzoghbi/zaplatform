@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://mzelzoghbi.github.io/zaplatform/"
+baseURL = "https://zaplatform.com"
 title = "ZaPlatform Blog | By Zak"
 theme = "geeky-hugo"
 languageName = "En"
