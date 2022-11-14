@@ -54,7 +54,7 @@ title_large = "Welcome **!**"
 title_small = "to Zak Blog"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "Engineering Manager | Helping teams to succed"
+content = "Engineering Manager | I help people make the worlds best software"
 button_label = "Know About Me"
 button_link = "about/"
 
